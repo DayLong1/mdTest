@@ -1,6 +1,6 @@
-David Luong \n
-ISTE-422 \n 
-Ex.07 \n
+David Luong <br>
+ISTE-422 <br>
+Ex.07 <br>
 
 ## Commands to run the tests:
 
